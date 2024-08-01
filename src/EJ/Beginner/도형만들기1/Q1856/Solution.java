@@ -1,7 +1,7 @@
 package EJ.Beginner.도형만들기1.Q1856;
 
 import java.util.Scanner;
-
+//오답
 public class Solution {
     public static void main(String args[]){
     Scanner sc = new Scanner(System.in);
