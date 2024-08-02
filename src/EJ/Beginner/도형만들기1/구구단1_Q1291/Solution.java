@@ -1,4 +1,4 @@
-package EJ.Beginner.도형만들기1.Q1291;
+package EJ.Beginner.도형만들기1.구구단1_Q1291;
 
 public class Solution {
 
