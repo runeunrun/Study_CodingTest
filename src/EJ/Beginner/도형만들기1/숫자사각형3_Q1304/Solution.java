@@ -13,7 +13,7 @@ public class Solution {
         //반복문 시행
         for(int i = 0; i < n; i++){
             for(int j = 0; j < n; j++){
-                arr[i][j]=num++; //왜?? arr[j][i]=num++;
+                arr[j][i]=num++; //왜?? arr[j][i]=num++;
             }
         }
         //배열의 각 요소 모두 출력하기
