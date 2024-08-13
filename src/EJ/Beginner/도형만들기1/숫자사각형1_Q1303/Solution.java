@@ -1,4 +1,4 @@
-package EJ.Beginner.도형만들기1.Q1303;
+package EJ.Beginner.도형만들기1.숫자사각형1_Q1303;
 
 import java.util.Scanner;
 

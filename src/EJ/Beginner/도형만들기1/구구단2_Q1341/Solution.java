@@ -1,4 +1,4 @@
-package EJ.Beginner.도형만들기1.Q1341;
+package EJ.Beginner.도형만들기1.구구단2_Q1341;
 
 public class Solution {
     static public void main(String arg[]) {
